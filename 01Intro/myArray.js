@@ -1,0 +1,2 @@
+var cricketers = [];
+var jerseyNumber = [];
